@@ -56,9 +56,9 @@
 			<text id="alert_dekoshop_humanwaiter_title" name="Inte en chans!"  />
 			<text id="alert_dekoshop_kickplayer_copy" name="Det är fortfarande andra spelare i ditt kafé. Vill du sparka ut dem och byta till &#039;Anpassa&#039;-menyn?"  />
 			<text id="alert_dekoshop_kickplayer_title" name="Se upp!"  />
-			<text id="alert_FancyCooking_copy" name="Vill du krydda din rätt med den här Lyxingrediensen och få {0} mer XP och {1} extra portioner?"  />
+			<text id="alert_FancyCooking_copy" name="Vill du krydda din rätt med den här lyxingrediensen och få {0} mer XP och {1} extra portioner?"  />
 			<text id="alert_FancyCooking_title" name="Lyxingredienser"  />
-			<text id="alert_fancyinfo_copy" name="Krydda en måltid med rätt lyxingrediens så kan du få upp till 20% mer XP och portioner! lyxingredienser tar dessutom inte någon plats i din kyl!"  />
+			<text id="alert_fancyinfo_copy" name="Krydda en måltid med rätt lyxingrediens så kan du få upp till 20% mer XP och portioner! Lyxingredienser tar dessutom inte någon plats i din kyl!"  />
 			<text id="alert_fancyinfo_title" name="Lyxingredienser!"  />
 			<text id="alert_giftboxfull_copy" name="Din presentbox är full! Du kan inte ta emot några fler gåvor från dina vänner!"  />
 			<text id="alert_giftboxfull_title" name="Ingen plats kvar!"  />
@@ -121,7 +121,7 @@
 Servera dem till dina gäster och sen kan du blanda några nya!"  />
 			<text id="alert_smoothiemaker_outofreach_copy" name="Du kan inte nå din Frosty. Försök med att inreda om ditt kafé."  />
 			<text id="alert_smoothiemaker_storage_copy" name="Där finns fortfarande några drycker i din Frosty! 
-Om du lagra de kommer du att förlora återstående portioner!"  />
+Om du lagrar den kommer du att förlora återstående portioner!"  />
 			<text id="alert_stafffire_copy" name="Vill du verkligen avskeda din lojala servitör?"  />
 			<text id="alert_stafffire_title" name="Avskeda servitör?"  />
 			<text id="alert_staffhire_copy" name="Ge din servitör ett nytt namn."  />
@@ -175,12 +175,12 @@ Om du lagra de kommer du att förlora återstående portioner!"  />
 			<text id="cookstep_cherriecake1" name="Blandar ingredienser"  />
 			<text id="cookstep_cherriecake2" name="Bakar kaka"  />
 			<text id="cookstep_cherrycompote1" name="Kokar körsbär"  />
-			<text id="cookstep_cherrycompote2" name="Låta kallna"  />
+			<text id="cookstep_cherrycompote2" name="Kyler ner"  />
 			<text id="cookstep_chickenburger1" name="Bryna kyckling"  />
 			<text id="cookstep_chickenburger2" name="Ordnar hamburgare"  />
 			<text id="cookstep_chickensalad1" name="Rostar kyckling"  />
 			<text id="cookstep_chickensalad2" name="Arrangerar sallad"  />
-			<text id="cookstep_chickensoup1" name="Stek bacon"  />
+			<text id="cookstep_chickensoup1" name="Steker bacon"  />
 			<text id="cookstep_chickensoup2" name="Kokar soppa"  />
 			<text id="cookstep_chiliconcarne1" name="Fräser köttfärs"  />
 			<text id="cookstep_chiliconcarne2" name="Skär chili"  />
@@ -188,10 +188,10 @@ Om du lagra de kommer du att förlora återstående portioner!"  />
 			<text id="cookstep_chocmousse2" name="Kyler mousse"  />
 			<text id="cookstep_chocolatecake1" name="Blandar ingredienser"  />
 			<text id="cookstep_chocolatecake2" name="Bakar"  />
-			<text id="cookstep_chocolatecheesecake1" name="Smält choklad"  />
-			<text id="cookstep_chocolatecheesecake2" name="Baka kakor"  />
-			<text id="cookstep_chocolatefondue1" name="Smält choklad"  />
-			<text id="cookstep_chocolatefondue2" name="Lägg till grädde"  />
+			<text id="cookstep_chocolatecheesecake1" name="Smälter choklad"  />
+			<text id="cookstep_chocolatecheesecake2" name="Bakar kakor"  />
+			<text id="cookstep_chocolatefondue1" name="Smälter choklad"  />
+			<text id="cookstep_chocolatefondue2" name="Lägger till grädde"  />
 			<text id="cookstep_christmasturkey1" name="Bräserar grönsaker"  />
 			<text id="cookstep_christmasturkey2" name="Ugnsbakar kalkon"  />
 			<text id="cookstep_cookieplate1" name="Klipper ut former"  />
@@ -200,21 +200,21 @@ Om du lagra de kommer du att förlora återstående portioner!"  />
 			<text id="cookstep_cornonthecob2" name="Arrangerar sallad"  />
 			<text id="cookstep_curry1" name="Fräser ingredienser"  />
 			<text id="cookstep_curry2" name="Lägger till kokosnöt"  />
-			<text id="cookstep_duckalorange1" name="Fyllar anka"  />
+			<text id="cookstep_duckalorange1" name="Fyller anka"  />
 			<text id="cookstep_duckalorange2" name="Rostar anka"  />
-			<text id="cookstep_easterdish1" name="Smält choklad"  />
+			<text id="cookstep_easterdish1" name="Smälter choklad"  />
 			<text id="cookstep_easterdish2" name="Koka ägg"  />
-			<text id="cookstep_englishbreakfast1" name="Kokar bönor"  />
+			<text id="cookstep_englishbreakfast1" name="Tillagar bönor"  />
 			<text id="cookstep_englishbreakfast2" name="Steker korv"  />
 			<text id="cookstep_fishandchips1" name="Friterar"  />
-			<text id="cookstep_fishandchips2" name="Steker fisk"  />
+			<text id="cookstep_fishandchips2" name="Mosar ärtor"  />
 			<text id="cookstep_friedpotatoes1" name="Kokar potatis"  />
 			<text id="cookstep_friedpotatoes2" name="Steker potatis"  />
-			<text id="cookstep_fruitpudding1" name="Vilar deg"  />
+			<text id="cookstep_fruitpudding1" name="Låter degen vila"  />
 			<text id="cookstep_fruitpudding2" name="Bakar"  />
 			<text id="cookstep_fruitsalad1" name="Skär upp frukt"  />
 			<text id="cookstep_fruitsalad2" name="Lägger till dressing"  />
-			<text id="cookstep_greensalad1" name="Blanda dressing"  />
+			<text id="cookstep_greensalad1" name="Blandar dressing"  />
 			<text id="cookstep_greensalad2" name="Marinerar sallad"  />
 			<text id="cookstep_gumbo1" name="Bräserar lök"  />
 			<text id="cookstep_gumbo2" name="Lägger till ris"  />
@@ -229,22 +229,22 @@ Om du lagra de kommer du att förlora återstående portioner!"  />
 			<text id="cookstep_macncheese1" name="Fyller casserole"  />
 			<text id="cookstep_macncheese2" name="Bakar"  />
 			<text id="cookstep_maplepancakes1" name="Blandar deg"  />
-			<text id="cookstep_maplepancakes2" name="Bakar pannkakor"  />
+			<text id="cookstep_maplepancakes2" name="Steker pannkakor"  />
 			<text id="cookstep_marblecake1" name="Fyller kakform"  />
 			<text id="cookstep_marblecake2" name="Bakar"  />
-			<text id="cookstep_mexicansalad1" name="Kokar bönor"  />
+			<text id="cookstep_mexicansalad1" name="Tillagar bönor"  />
 			<text id="cookstep_mexicansalad2" name="Blandar ingredienser"  />
-			<text id="cookstep_minestrone1" name="Bräserar grönsaker"  />
+			<text id="cookstep_minestrone1" name="Ångar grönsaker"  />
 			<text id="cookstep_minestrone2" name="Lägger till pasta"  />
 			<text id="cookstep_mixedsalad1" name="Rör om dressing"  />
 			<text id="cookstep_mixedsalad2" name="Marinerar sallad"  />
-			<text id="cookstep_nasigoreng1" name="Kokar kyckling"  />
+			<text id="cookstep_nasigoreng1" name="Tillagar kyckling"  />
 			<text id="cookstep_nasigoreng2" name="Bräserar grönsaker"  />
 			<text id="cookstep_newyorkcheesecake1" name="Blandar fyllning"  />
 			<text id="cookstep_newyorkcheesecake2" name="Bakar tårta"  />
 			<text id="cookstep_noodlesalad1" name="Rör om majonäs"  />
 			<text id="cookstep_noodlesalad2" name="Blandar ingredienser"  />
-			<text id="cookstep_omelette1" name="Årstidsägg"  />
+			<text id="cookstep_omelette1" name="Kryddar ägg"  />
 			<text id="cookstep_omelette2" name="Vika ägg"  />
 			<text id="cookstep_onionsoup1" name="Fräser lök"  />
 			<text id="cookstep_onionsoup2" name="Gratinerar"  />
@@ -266,7 +266,7 @@ Om du lagra de kommer du att förlora återstående portioner!"  />
 			<text id="cookstep_ricepudding2" name="Stuvar äppelmos"  />
 			<text id="cookstep_roastchicken1" name="Fyller kyckling"  />
 			<text id="cookstep_roastchicken2" name="Rostar"  />
-			<text id="cookstep_sandwich1" name="Smöra bröd"  />
+			<text id="cookstep_sandwich1" name="Smörar bröd"  />
 			<text id="cookstep_sandwich2" name="Garnerar toast"  />
 			<text id="cookstep_scouse1" name="Tillagar kött"  />
 			<text id="cookstep_scouse2" name="Lägger till rödbetor"  />
@@ -318,14 +318,14 @@ Om du lagra de kommer du att förlora återstående portioner!"  />
 		<coopmission>
 			<text id="coop_desc_long_1" name="Vi tar en matlagningskurs för att förbättra några av våra rätter till perfektion. Vill du vara med?"  />
 			<text id="coop_desc_long_10" name="Din familj kommer över för jul, och det är du som lagar julmiddagen. Hoppas det blir alldeles utsökt!"  />
-			<text id="coop_desc_long_11" name="Ett tårtkrig är planerat och vi behöver kakor! Snälla, baka så många tårtor som du kan..."  />
+			<text id="coop_desc_long_11" name="Ett tårtkrig är planerat och vi behöver tårtor! Snälla, baka så många tårtor som du kan..."  />
 			<text id="coop_desc_long_12" name="Stadens soppkök behöver desperat soppor.
-Kan du laga till några soppor som alla verkligen gillar?"  />
-			<text id="coop_desc_long_13" name="För ett asiatiskt temafest behöver vi några typiska asiatiska rätter. Känner du till några recept för att göra vår kväll?"  />
-			<text id="coop_desc_long_14" name="Den nationella byggkonferensen är på väg att starta och vi behöver några riktigt rejäla rätter. Har du något som passar för riktiga män?"  />
+Kan du tillaga några soppor som alla verkligen gillar?"  />
+			<text id="coop_desc_long_13" name="För ett asiatiskt temafest behöver vi några typiska asiatiska rätter. Känner du till några recept för att göra vår kväll unik?"  />
+			<text id="coop_desc_long_14" name="Den nationella byggkonferensen ska snart börja och vi behöver några riktigt rejäla rätter. Har du något som passar för riktiga män?"  />
 			<text id="coop_desc_long_15" name="Besökare från London kommer strax, de önskar att få ett stadigt mål mat från deras hemland. Kan du kasta ihop något?"  />
 			<text id="coop_desc_long_2" name="Jag planerar en fest med mexikanskt tema, och behöver typisk mexikansk mat. Kan ni kanske hjälpa mig?"  />
-			<text id="coop_desc_long_3" name="En sportklubb från Hamburg är på besök och jag vill att de ska känna sig så hemma som möjligt. Jag behöver någon som kan laga riktig Hanseatisk mat. Vad sägs?"  />
+			<text id="coop_desc_long_3" name="En sportklubb från Hamburg är på besök och jag vill att de ska känna sig så hemma som möjligt. Jag behöver någon som kan laga riktig Hanseatisk mat. Vad sägs?"  /><
 			<text id="coop_desc_long_4" name="Jag planerar en trädgårdsfest med många gäster, och behöver massor av mat! Jag har hört att du är en riktig catering-mästare... kanske ni kan hjälpa mig?"  />
 			<text id="coop_desc_long_5" name="Stadens skidpark tänker hålla en stor after ski-fest och behöver mängder av god mat! Kan du hjälpa dem?"  />
 			<text id="coop_desc_long_6" name="Min chef kommer över ikväll och jag vill verkligen imponera på honom, med en fyra rätters måltid... kan du ta hand om detta?"  />
@@ -336,10 +336,10 @@ Kan du laga till några soppor som alla verkligen gillar?"  />
 			<text id="coop_desc_short_10" name="Ät tills skjortan spricker!"  />
 			<text id="coop_desc_short_11" name="Varje träff räknas!"  />
 			<text id="coop_desc_short_12" name="Inget slår en soppa!"  />
-			<text id="coop_desc_short_13" name="Tillägg alltid lite ris!"  />
+			<text id="coop_desc_short_13" name="Lägg alltid till lite ris!"  />
 			<text id="coop_desc_short_14" name="Kött och potatis gillar vi!"  />
-			<text id="coop_desc_short_15" name="Allt det bästa för de Brittiska!"  />
-			<text id="coop_desc_short_2" name="Fiesta Mexicana när den är som bäst!"  />
+			<text id="coop_desc_short_15" name="Allt det bästa för britterna!"  />
+			<text id="coop_desc_short_2" name="Fiesta Mexicana som bäst!"  />
 			<text id="coop_desc_short_3" name="Lapskojs för mina Hanseatiska besökare!"  />
 			<text id="coop_desc_short_4" name="Toast för trädgårdsfesten!"  />
 			<text id="coop_desc_short_5" name="Med choklad mot ostberget!"  />
